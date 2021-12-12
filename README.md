@@ -23,4 +23,5 @@ PART - 2 : Deploying Public API to AWS EC2 server and launch website service
 
 ##### [Year_of_marriage_prediction](https://github.com/sasikala07/DataScience_portfolio/tree/master/ML_Project) :
 Model build using RandomForest Regresion algorithm and predicted the year of marriage .Deployed API to AWS EC2 server and launch website service. [WEBSITE LINK](http://3.140.249.198/).Given below is the image that shows the website.
-![prediction website](file:///home/sasikala/Pictures/Screenshot%20from%202021-12-07%2011-13-17.png)
+
+![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145703724-86859816-7766-41f0-8b09-adcf5fe850c4.png)
