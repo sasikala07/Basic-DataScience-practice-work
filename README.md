@@ -2,7 +2,7 @@
 
 Repository containing portfolio of data science project completed by me for self learning and training purposes.Presented in the form of iPython Notebooks.
 
-### - End-End ML Project
+### -> End-End ML Project
 
 PART - 1 : Model Building and hosting local API
 
@@ -23,10 +23,12 @@ PART - 2 : Deploying Public API to AWS EC2 server and launch website service
 6. Restart apache webserver and Check API status
 6. Launch a website with domain name and host webpage.
 
-#### [Year_of_Marriage_Prediction](https://github.com/sasikala07/DataScience_portfolio/tree/master/ML_Project) :
+#### [Marriage_Prediction](https://github.com/sasikala07/DataScience_portfolio/tree/master/ML_Project) :
 Model build with **RandomForest Regresion algorithm** and predicted the year of marriage.Deployed API to **AWS EC2 server** and launch website service. [Website Link](http://3.140.249.198/).Given below is the image that shows the website.
 
 ![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145705801-57c20395-8c27-4dd1-bd2b-ce7a1349995e.png)
 
 
-
+### -> ML_Micro_Projects
+#### [HealthCare_Prediction](https://github.com/sasikala07/DataScience_portfolio/blob/master/ml_micro_proj/healthcare_stroke_detection.ipynb) :
+A model to predict whether the pateint likely to get stroke or not.Identified the best F1 Score model from different agorithms to get accurate result in prediction.
