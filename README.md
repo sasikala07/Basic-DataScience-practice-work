@@ -34,4 +34,4 @@ Model build with **RandomForest Regresion algorithm** and predicted the year of 
 A model to predict whether the pateint likely to get stroke or not.Identified the best **F1 Score** model from different agorithms to get accurate result in prediction.perform data visualization using **matplotlib and seaborn**.
 
 - [Recommendation_System](https://github.com/sasikala07/DataScience_portfolio/blob/master/ml_micro_proj/Imdb_movies_recommendation_collaborative_and%20content_based_filtering.ipynb):
-A model to recommend similar movies using both **Collaborative Filtering and Content Based Filtering** recommendation system.Done NLP **TFIDF Vectorize**.
+A model to recommend similar movies using both **Collaborative Filtering and Content Based Filtering** recommendation system.Performed NLP **TFIDF Vectorize**.
