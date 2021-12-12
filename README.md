@@ -1,7 +1,7 @@
 # DATASCIENCE_PORTFOLIO
 Repository containing portfolio of data science project completed by me for trianing,self learning ,and hobby purposes.Presented in the form of iPython Notebooks.
 
-### End-End ML Project
+### - End-End ML Project
 PART - 1 : Model Building and hosting local API
 
 1. Data Preparation 
@@ -21,7 +21,8 @@ PART - 2 : Deploying Public API to AWS EC2 server and launch website service
 6. Restart apache webserver and Check API status
 6. Launch a website with domain name and host webpage.
 
-##### [Year_of_marriage_prediction](https://github.com/sasikala07/DataScience_portfolio/tree/master/ML_Project) :
-Model build using RandomForest Regresion algorithm and predicted the year of marriage .Deployed API to AWS EC2 server and launch website service. [WEBSITE LINK](http://3.140.249.198/).Given below is the image that shows the website.
+#### [Year_of_marriage_prediction](https://github.com/sasikala07/DataScience_portfolio/tree/master/ML_Project) :
+Model build using RandomForest Regresion algorithm and predicted the year of marriage .Deployed API to AWS EC2 server and launch website service. [Website Link](http://3.140.249.198/).Given below is the image that shows the website. 
+![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145705586-ea43bdac-cadc-48cd-9bf7-8ecb282276c5.png)
 
-file:///home/sasikala/Pictures/img.xcf
+
