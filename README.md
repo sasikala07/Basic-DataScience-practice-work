@@ -38,13 +38,14 @@ PART - 2 : Deploying Public API to AWS EC2 server and launch website service
 6. Launch a website with domain name and host webpage.
 
 - [Marriage_Prediction](https://github.com/sasikala07/DataScience_portfolio/tree/master/ML_Project) :
-Model build with **RandomForest Regresion algorithm** and predicted your **year of marriage**.Deployed API to **AWS EC2 server** and launch website service. [Website Link](http://3.140.249.198/).Given below is the image that shows the website.
+A Model build with **RandomForest Regresion algorithm** and predicted your **year of marriage**.Deployed API to **AWS EC2 server** and launch website service. [Website Link](http://3.140.249.198/).Given below is the image that shows the website.
 
    ![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145705801-57c20395-8c27-4dd1-bd2b-ce7a1349995e.png)
 
 ### DL_PROJECT
 
 - [ChatBot](https://github.com/sasikala07/DataScience_portfolio/blob/master/DL_project/Build_chatbot_tensorflow_keras.ipynb):
+A Model using **tensorflow.Keras** build a basic ChatBot GUI with tkinter. Import **nltk** and lemmatize each words,compile the model with **stochastic gradient descent** and predict output intent with **softmax**. Given below is the image shows the GUI of chatbot
 
   ![Screenshot from 2021-12-13 18-59-26](https://user-images.githubusercontent.com/72785420/145828342-1e221912-6ed4-47a1-a00a-ceb0856c2432.png)
 
